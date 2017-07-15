@@ -1,0 +1,10 @@
+app
+build
+build.gradle
+complete_iCare.iml
+gradle
+gradle.properties
+gradlew
+gradlew.bat
+local.properties
+settings.gradle
